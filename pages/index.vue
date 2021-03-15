@@ -288,3 +288,4 @@ export default {
   font-weight: 500;
 }
 </style>
+
