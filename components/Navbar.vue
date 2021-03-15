@@ -33,8 +33,6 @@
         <li>
           <a
             href="/"
-            aria-label="Our product"
-            title="Our product"
             class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-gray-400"
             >Home</a
           >
@@ -42,8 +40,6 @@
         <li>
           <a
             href="/"
-            aria-label="Our product"
-            title="Our product"
             class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-gray-400"
             >Menu</a
           >
@@ -51,8 +47,6 @@
         <li>
           <a
             href="/"
-            aria-label="Product pricing"
-            title="Product pricing"
             class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-teal-accent-400"
             >Contact Us</a
           >
@@ -60,8 +54,6 @@
       </ul>
       <a
         href="/"
-        aria-label="Company"
-        title="Company"
         class="flex items-center ml-auto lg:flex space-x-2"
       >
         <span
