@@ -209,7 +209,7 @@
     <Header />
     <div class="w-full flex flex-col items-center mt-10">
       <h2 class="font-semibold text-3xl">Daftar Menu</h2>
-      <div class="flex justify-between w-64">
+      <div class="flex justify-between w-64 mt-10">
         <div
           class="font-bold px-10 py-2 cursor-pointer"
           v-bind:class="isDrinks ? 'active' : ''"
@@ -226,7 +226,7 @@
         </div>
       </div>
       <div
-        class="w-40 mt-2"
+        class="w-40 mt-4"
         v-bind:class="isDrinks ? 'flex justify-between ' : 'hidden'"
       >
         <div
@@ -245,7 +245,7 @@
         </div>
       </div>
       <div
-        class="w-40 mt-2"
+        class="w-40 mt-4"
         v-bind:class="isDrinks ? 'hidden' : 'flex  justify-between '"
       >
         <div
